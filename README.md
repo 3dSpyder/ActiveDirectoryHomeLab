@@ -20,7 +20,7 @@ Microsoft's Active Directory
 
 <h2>Lab walk-through:</h2>
 
-
+[YouTube Demonstration](https://youtu.be/7eJexJVCqJo) - This video from Josh Madakor served as the starting point for the development of my home lab.
 
 <!--
  ```diff
